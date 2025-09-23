@@ -16,7 +16,7 @@ El objetivo es estudiar la relación entre el **sentimiento en Twitter** y el **
   - `tweets_≥10k_seguidores_sentimientos.csv.gz`: Dataset procesado con resultados de sentimiento para usuarios con ≥10k seguidores.
   - `tweets_≥1M_seguidores_sentimientos.csv.gz`: Dataset procesado con resultados de sentimiento para usuarios con ≥1M seguidores.
 
-- **PDF/** (pendiente de subir)
+- **PDF/**
   - `analisis_sentimientos_twitter_bitcoin.pdf`: Documento final en formato científico redactado en LaTeX.
 
 ---
