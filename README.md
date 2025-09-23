@@ -53,3 +53,11 @@ El objetivo es estudiar la relación entre el **sentimiento en Twitter** y el **
 Trabajo realizado por **Katherine López Ramírez**  
 Prácticas curriculares – Máster en Data Science  
 Universidad Europea de Madrid – 2025
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia **MIT**.  
+Eres libre de usar, modificar y distribuir este trabajo, siempre y cuando incluyas la atribución correspondiente:
+Copyright (c) 2025 Katherine López Ramírez
