@@ -58,6 +58,5 @@ Universidad Europea de Madrid – 2025
 
 ## Licencia
 
-Este proyecto está bajo la licencia **MIT**.  
-Eres libre de usar, modificar y distribuir este trabajo, siempre y cuando incluyas la atribución correspondiente:
+Este proyecto está bajo la **Licencia MIT**.    
 Copyright (c) 2025 Katherine López Ramírez
