@@ -53,14 +53,14 @@ Este análisis de más de **4.6 millones de tweets** demostró que el sentimient
 La mayoría de los tweets fueron **neutrales (67.8%)**, mientras que los positivos representaron un **20.6%** y los negativos un **11.6%**.  
 Esto confirma que, aunque existen episodios de polarización, el discurso general sobre Bitcoin tiende a ser más informativo que emocional.
 
-![Distribución de sentimientos](data/Imagenes/distribucion_sentimientos.png)
+![Distribución de sentimientos](data/Imagenes/Distribución de sentimientos.png)
 
 ---
 
 ### 2. Distribución de seguidores por grupo
 Al segmentar por relevancia de cuentas, se observó que la mayoría de la conversación proviene de usuarios con **más de 10k seguidores**, aunque las cuentas con **más de 1M de seguidores** tienen menor frecuencia pero mayor impacto potencial.  
 
-![Distribución de seguidores](data/Imagenes/distribucion_seguidores.png)
+![Distribución de seguidores](data/Imagenes/Distribucion_seguidores.png)
 
 ---
 
@@ -70,7 +70,7 @@ La comparación entre sentimiento y precio mostró que:
 - En varias **caídas extremas**, el sentimiento previo era positivo, lo que indica un exceso de confianza.  
 - En casos como el **colapso de FTX**, el sentimiento fue claramente negativo en los días previos, anticipando la crisis.  
 
-![BTC vs sentimiento](data/Imagenes/btc_vs_sentimiento.png)
+![BTC vs sentimiento](data/Imagenes/sentimiento_vs_BTC.png)
 
 ---
 
