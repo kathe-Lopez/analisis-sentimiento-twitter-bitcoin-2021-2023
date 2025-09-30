@@ -41,7 +41,7 @@ El objetivo es estudiar la relación entre el **sentimiento en Twitter** y el **
 
 ---
 
-## Resultados esperados
+## Principales hallazgos
 
 - El sentimiento en Twitter no predice de forma automática el precio de Bitcoin, pero **sí ofrece señales clave en episodios de alta volatilidad**.  
 - Un **sentimiento positivo persistente (3–7 días previos)** se asocia con **subidas relevantes** del precio, como ocurrió en febrero de 2021 con el anuncio de Tesla.  
