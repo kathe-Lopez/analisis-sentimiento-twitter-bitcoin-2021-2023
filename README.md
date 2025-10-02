@@ -1,8 +1,11 @@
 # Análisis del Impacto del Sentimiento en Twitter sobre el Precio de Bitcoin (2025)
 
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last update](https://img.shields.io/github/last-commit/kathe-Lopez/analisis-sentimiento-twitter-bitcoin-2021-2023)
 ![Python](https://img.shields.io/github/languages/top/kathe-Lopez/analisis-sentimiento-twitter-bitcoin-2021-2023)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![HuggingFace](https://img.shields.io/badge/NLP-HuggingFace-yellow)
 
 Este repositorio contiene el trabajo de análisis realizado en el marco del proyecto de investigación desarrollado en **Projener.AI (Madrid, España)** en septiembre de 2025.
 
@@ -89,7 +92,6 @@ La comparación entre sentimiento y precio mostró que:
 Trabajo realizado por **Katherine López Ramírez**  
 Para **Projener.AI – Madrid, España**  
 Septiembre, 2025 
-
 ---
 
 ## Licencia
